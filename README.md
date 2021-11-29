@@ -1,4 +1,4 @@
-# BigIdeasFinal
+# BigIdeas Final Project
 
 ## Our team!
 
@@ -8,7 +8,11 @@
 ### 3. Harshini Bandaru      lsb40@pitt.edu
 
 # Abstract
+
 #### We tried to find the best neighborhood in Pittsburgh based on which neighborhood is the best for outdoor and indoor recreation. We used the three data sets listed below to come to the conclusion that the best neighborhood in Pittsburgh is Squirel Hill South
+=======
+### This is an assessment of the best neighborhoods in the Pittsburgh area using our own metric to evaluate the conclusion. We are focused on the neighborhood that will provide the highest amount of recreational service to the community. We used three different  datasets provided by the Western Pennsylvania Regional Data Center. We focused on the datasets allocated to Playgrounds, Swimming Pools, and Courts in the neighborhood. With the provided data, we calculated the neighborhoods with the most playgrounds, the most courts, and the most pools with an acceptable type of the body of water available in that neighborhood.
+
 
 ## Datasets Used
 #### CourtsAndRinks.csv
